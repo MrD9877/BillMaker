@@ -1,4 +1,3 @@
-import React, { useEffect } from 'react'
 
 export default function ItemsTable({ items, totalItems, quantity, billTotal, removeItem }) {
     return (

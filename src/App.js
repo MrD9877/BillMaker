@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/BillMaker' element={<Home />} />
         <Route path='/recipt' element={<Recipt />} />
         <Route path='/route/*' element={<Router />} />
         <Route path="*" element={<PageNotFound />} />

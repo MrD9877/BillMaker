@@ -3,8 +3,6 @@ import { Routes, Route } from 'react-router-dom';
 
 
 export default function Router() {
-    const home = "home"
-    const page2 = "page2"
     return (
         <div>
             <>

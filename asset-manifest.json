@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BillMaker/static/css/main.7170526d.css",
-    "main.js": "/BillMaker/static/js/main.62de7da0.js",
+    "main.js": "/BillMaker/static/js/main.eeff7712.js",
     "static/js/453.cb59f9ce.chunk.js": "/BillMaker/static/js/453.cb59f9ce.chunk.js",
     "index.html": "/BillMaker/index.html",
     "main.7170526d.css.map": "/BillMaker/static/css/main.7170526d.css.map",
-    "main.62de7da0.js.map": "/BillMaker/static/js/main.62de7da0.js.map",
+    "main.eeff7712.js.map": "/BillMaker/static/js/main.eeff7712.js.map",
     "453.cb59f9ce.chunk.js.map": "/BillMaker/static/js/453.cb59f9ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7170526d.css",
-    "static/js/main.62de7da0.js"
+    "static/js/main.eeff7712.js"
   ]
 }
